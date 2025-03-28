@@ -7,7 +7,7 @@
 
 - 📫 Você me acha através do e-mail **gabriel.r.clementino@hotmail.com**
 
-- 📄 Minhas experencias [www.linkedin.com/in/gabrielclementinoin](www.linkedin.com/in/gabrielclementinoin)
+- 📄 Minhas experencias [www.linkedin.com/in/gabrielclementinoin)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
