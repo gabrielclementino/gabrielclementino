@@ -23,31 +23,14 @@
 - Atualmente estou aprofundando meus estudos em **Python, Machine Learning, Engenharia de Dados e IA**
 - Tenho experiência com **Power BI, Excel, SQL, Python e análise de negócios**
 - Gosto de criar **dashboards, KPIs, automações e soluções orientadas a dados**
-- Meu foco é transformar dados em **insights claros e resultados reais**
+- Meu foco é transformar dados em **insights claros, estratégicos e acionáveis**
 
 ---
+
 ## Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="42" height="42" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" height="42" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="42" height="42" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="42" height="42" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="42" height="42" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="42" height="42" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="42" height="42" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="42" height="42" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,figma,html,css,js,aws" />
 </p>
 
 ---
@@ -60,9 +43,10 @@
 - Python
 - Business Intelligence
 - ETL
-- Dashboards Gerenciais
 - Modelagem de Dados
 - KPIs e Indicadores
+- Dashboards Gerenciais
+- Análise de Negócios
 
 ---
 
@@ -73,3 +57,7 @@
 - **Instagram:** https://instagram.com/gabrielclementino
 
 ---
+
+<p align="center">
+  Feito com foco em dados, estratégia e evolução contínua.
+</p>
